@@ -1,0 +1,149 @@
+{
+  "data": [
+    {
+      "category": "Reforma e Construção",
+      "service": "Mestre de Obras",
+      "expertises": [
+        "Supervisão da Equipe",
+        "Implementação de Normas",
+        "Manutenção da Segurança",
+        "Inspeção de Equipamentos de Segurança",
+        "Intermediação com Fornecedores",
+        "Controle de Materiais",
+        "Gestão de Equipamentos",
+        "Resolução de Problemas",
+        "Treinamento de Novos Funcionários"
+      ]
+    },
+    {
+      "category": "Reforma e Construção",
+      "service": "Serralheiro",
+      "expertises": [
+        "Serviços de serralheria em geral",
+        "Fabricação de estruturas metálicas",
+        "Fabricação de esquadrias de metal",
+        "Instalação de esquadrias de metal",
+        "Fabricação e instalação de corrimãos",
+        "Fabricação e instalação de guarda-corpos",
+        "Manutenção de estruturas metálicas",
+        "Soldagem de peças metálicas",
+        "Confecção de peças sob medida",
+        "Fabricação de estruturas para automóveis",
+        "Fabricação e instalação de portões automáticos",
+        "Corte e dobra de chapas metálicas",
+        "Modelagem de chapas metálicas"
+      ]
+    },
+    {
+      "category": "Reforma e Construção",
+      "service": "Arquiteto",
+      "expertises": [
+        "Projetos Arquitetônicos em geral",
+        "Planejamento Urbano e Paisagístico",
+        "Análise de Impacto Ambiental",
+        "Documentação",
+        "Obtenção de Aprovações e Licenças",
+        "Supervisão de Construção",
+        "Certificações e Normas de Sustentabilidade"
+      ]
+    },
+
+    {
+      "category": "Serviços domésticos",
+      "service": "Diarista",
+      "expertises": [
+        "Limpeza Geral",
+        "Limpeza de Estofados",
+        "Polimento de Metais e Cromados",
+        "Lavagem de Cortinas",
+        "Lavagem de Persianas",
+        "Remoção de Manchas",
+        "Limpeza de Ar Condicionado e Ventilação",
+        "Manutenção de Equipamentos de Limpeza",
+        "Controle de Estoque de Materiais de Limpeza",
+        "Limpeza de Equipamentos de Cozinha",
+        "Manutenção de Equipamentos de Cozinha"
+      ]
+    },
+    {
+      "category": "Serviços domésticos",
+      "service": "Faxineiro",
+      "expertises": [
+        "Limpeza Geral",
+        "Limpeza de Estofados",
+        "Polimento de Metais e Cromados",
+        "Lavagem de Cortinas",
+        "Lavagem de Persianas",
+        "Remoção de Manchas",
+        "Limpeza de Ar Condicionado e Ventilação",
+        "Manutenção de Equipamentos de Limpeza",
+        "Controle de Estoque de Materiais de Limpeza",
+        "Limpeza de Equipamentos de Cozinha",
+        "Manutenção de Equipamentos de Cozinha"
+      ]
+    },
+    {
+      "category": "Serviços domésticos",
+      "service": "Jardineiro",
+      "expertises": [
+        "Manutenção Geral do Jardim",
+        "Controle de Pragas e Doenças",
+        "Paisagismo",
+        "Design de Jardim",
+        "Manutenção de Horta",
+        "Manutenção de Jardim",
+        "Podas Ornamentais e de Formação",
+        "Remoção de Resíduos"
+      ]
+    },
+
+    {
+      "category": "Instalações",
+      "service": "Eletricista",
+      "expertises": [
+        "Instalações residenciais",
+        "Instalações prediais",
+        "Instalações industriais",
+        "Instalação Elétrica",
+        "Manutenção Preventiva",
+        "Pequenos e grandes reparos",
+        "Atualizações de Sistema",
+        "Instalação de Equipamentos",
+        "Leitura de Diagramas",
+        "Sistemas de Energia Solar",
+        "Sistemas de Energia Eólica",
+        "Sistemas de Backup de Energia",
+        "Automatização Residencial",
+        "Iluminação Inteligente",
+        "Sistemas de Monitoramento de Energia",
+        "Sistemas de Controle de Temperatura",
+        "Sistemas de Segurança Elétrica",
+        "Projeto de Redes Elétricas",
+        "Instalação de Sistemas de Carregamento de Veículos Elétricos"
+      ]
+    },
+    {
+      "category": "Instalações",
+      "service": "Instalador de drywall",
+      "expertises": [
+        "Instalação de paredes divisórias internas",
+        "Montagem de tetos",
+        "Montagem de forros",
+        "Instalação de isolamento térmico",
+        "Instalação de isolamento acústico",
+        "Fixação de molduras",
+        "Fixação de rodatetos",
+        "Construção de prateleiras",
+        "Construção de armários embutidos",
+        "Instalação de portas",
+        "Instalação de batentes",
+        "Reparos e manutenção",
+        "Acabamento e pintura de superfícies",
+        "Instalação de iluminação embutida em tetos",
+        "Nivelamento e preparação de superfícies",
+        "Execução de detalhes decorativos",
+        "Execução de projetos personalizados"
+      ]
+    }
+  ]
+}

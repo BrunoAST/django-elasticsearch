@@ -1,0 +1,13 @@
+asgiref==3.8.1
+certifi==2024.7.4
+Django==5.0.6
+djangorestframework==3.15.1
+elastic-transport==8.15.0
+elasticsearch==8.15.0
+Faker==27.0.0
+Pillow==9.0.0
+psycopg2-binary==2.9.9
+python-dateutil==2.9.0.post0
+six==1.16.0
+sqlparse==0.5.0
+urllib3==2.2.2

@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "drf_elasticsearch_requests",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}

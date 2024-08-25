@@ -1,0 +1,16 @@
+meta {
+  name: List
+  type: http
+  seq: 1
+}
+
+get {
+  url: {{BASE}}/offered-service/?limit=25&offset=75
+  body: none
+  auth: none
+}
+
+query {
+  limit: 25
+  offset: 75
+}

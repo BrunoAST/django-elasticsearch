@@ -4,3 +4,4 @@ from .service import Service
 from .category import Category
 from .expertise import Expertise
 from .offered_service import OfferedService
+from .customer import Customer

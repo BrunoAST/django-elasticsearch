@@ -10,4 +10,3 @@ class ServiceProvider(BaseUser):
     cnpj = models.CharField(max_length=14, blank=True, null=True)
     cpf = models.CharField(max_length=11, blank=True, null=True)
     # TODO: Add Slug Field for URL
-    

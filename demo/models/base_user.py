@@ -1,5 +1,7 @@
 from django.db import models
 
+from demo.choices.user_roles import UserRole
+
 
 class BaseUser(models.Model):
     full_name = models.CharField(max_length=100)
@@ -8,6 +10,11 @@ class BaseUser(models.Model):
     cellphone = models.CharField(max_length=11, unique=True)
     profile_photo = models.ImageField(upload_to="users/profile/%Y/%m/%d/", null=True, blank=True)
     username = models.SlugField(unique=True)
+    role = models.CharField(
+        max_length=20,
+        choices=UserRole.choices(),
+        default=UserRole.SERVICE_PROVIDER.value
+    )
 
     class Meta:
         """
@@ -20,4 +27,3 @@ class BaseUser(models.Model):
 
     def __str__(self):
         return f"{self.full_name} - {self.email}"
-    

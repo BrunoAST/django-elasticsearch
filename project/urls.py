@@ -5,7 +5,8 @@ from django.conf import settings
 
 
 api_patterns = [
-    path('v1/', include('demo.urls'))
+    path('v1/', include('demo.urls')),
+    path('auth/', include('authentication.urls')),
 ]
 
 urlpatterns = [

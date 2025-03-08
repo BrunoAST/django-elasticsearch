@@ -17,10 +17,11 @@ class ServiceProviderAdmin(admin.ModelAdmin):
     inlines = (OfferedServiceInline,)
     list_display = (
         'id',
-        'full_name',
+        # 'full_name',
+        'first_name',
         'email',
         'cellphone',
         'work_type',
     )
-    search_fields = ('full_name', 'email', 'cellphone')
+    search_fields = ('first_name', 'email', 'cellphone')
     

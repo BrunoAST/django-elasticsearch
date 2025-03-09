@@ -5,13 +5,13 @@ from django.conf import settings
 
 
 api_patterns = [
-    path('v1/', include('demo.urls')),
-    path('auth/', include('authentication.urls')),
+    path('v1/', include('demo.urls'), name='v1'),
+    path('auth/', include('authentication.urls'), name='auth'),
 ]
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include((api_patterns, 'api'))),
+    path('api/', include((api_patterns, 'api')), name='api'),
 ]
 
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
